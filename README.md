@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ibrahim 👋
 
-<!--
-**iBiziCode/iBiziCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Administrator & Software Engineer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I thrive at the intersection of infrastructure and software, building robust systems and modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **Backend:** NodeJS, Django
+- **System Administration:** Automation, Security, Cloud Ops
+
+---
+
+## 🚀 Favorite Project
+
+**[KPL Writing Competition Platform](wc.kplonline.org)**  
+A dynamic platform designed to empower creative writers and streamline competition management.
+
+---
+
+## 📜 Certification
+
+- **Cisco CyberOPS Associate**
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/biz-ibrahim/)
+
+---
+
+_Always learning, always building. Let’s connect!_
